@@ -1,7 +1,7 @@
 # CANopener
 An ESP32-based project for interfacing with the automotive CAN bus protocol.
 
-Why use this lirbary?
+**Why use this library?**
 * ESP-IDF based, built for speed and extensibility - uses the built-in CAN conntroller of the ESP32
 * Arduino Core and Library support
 * Compatibility: v3.3.2 of the ESP-IDF is used to ensure compatibility between all major ESP32 frameworks (IDF, ADF, MDF, DSP, Arduino)
