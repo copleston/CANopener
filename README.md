@@ -10,7 +10,7 @@
 4. Download this repository
 `git clone --recursive https://github.com/oliverjc/CANopener.git`
 5. `make menuconfig`  to configure the project
-6. `make -j17` to build
+6. `make -j17` to build (change the number to however many cores your computer has +1)
 
 
 ## Python Installation (Mac)
