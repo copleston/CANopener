@@ -1,7 +1,7 @@
 # ESP-IDF & Arduino Template
 
 ## Installation
-1. Make sure you are using a **Python2**  environment in your terminal. See **Pythono Installation** section for details on how to do this.
+1. Make sure you are using a **Python2**  environment in your terminal. See **Python Installation** section for details on how to do this.
 2. Install ESP-IDF at the v3.3.2 release (if you have not already) 
 	1. Check you current version
  `git describe --always --tags --dirty`
