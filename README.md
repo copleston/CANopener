@@ -8,7 +8,7 @@
 	2. If in doubt, delete your ESP-IDF folder and fresh install  
 `git clone -b v3.3.2 --recursive https://github.com/espressif/esp-idf.git`
 4. Download this repository
-`git clone --recursive https://github.com/oliverjc/idf-arduino-template.git`
+`git clone --recursive https://github.com/oliverjc/CANopener.git`
 5. `make menuconfig`  to configure the project
 6. `make -j17` to build
 
