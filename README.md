@@ -1,4 +1,10 @@
-# ESP-IDF & Arduino Template
+# CANopener
+An ESP32-based project for interfacing with the automotive CAN bus protocol.
+
+Why use this lirbary?
+* ESP-IDF based, built for speed and extensibility - uses the built-in CAN conntroller of the ESP32
+* Arduino Core and Library support
+* Compatibility: v3.3.2 of the ESP-IDF is used to ensure compatibility between all major ESP32 frameworks (IDF, ADF, MDF, DSP, Arduino)
 
 ## Installation
 1. Make sure you are using a **Python2**  environment in your terminal. See **Python Installation** section for details on how to do this.
