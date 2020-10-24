@@ -3,7 +3,7 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := firmware
+PROJECT_NAME := CANopener
 EXTRA_COMPONENT_DIRS := ./components/
 
 # Note that the IDF path is inherited by the IDF path found in in the ESP_ADF directory's makefile

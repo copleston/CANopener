@@ -20,6 +20,11 @@ extern "C" void app_main() {
    
     initArduino();
 
+   // program loop
+   while(true) {
+      ESP_LOGI(TAG, "test");
+      vTaskDelay(pdMS_TO_TICKS(1000)); // wait a second
+   }
     
    
 }
