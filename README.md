@@ -13,7 +13,7 @@
 6. `make -j17` to build
 
 
-## Python Installation
+## Python Installation (Mac)
 1. Install [home-brew](https://brew.sh/)
 2. Install Anaconda
 `brew cask install anaconda`
